@@ -1,25 +1,27 @@
-# Appstore iOS 11
+# Fancy news reader
 PAging collection view that shows latest news from techcurch.com and displays full content in a detail page, was built to practice the basics of laying out views without storyboards, not 100% pefect but good start I guess.
 
+|       SCREEN 1  |        SCREEN 2    |   
+| ------------- |:-------------:|
+|<img src="Screens/1.PNG" width="250" />   | <img src="Screens/2.PNG" width="250" /> |
+|<img src="Screens/3.PNG" width="250" />| <img src="Screens/4.PNG" width="250" /> |
 
-<img src="Screens/1.PNG" width="250" />
-<img src="Screens/2.PNG" width="250" />
-<img src="Screens/3.PNG" width="250" />
-<img src="Screens/4.PNG" width="250" />
+
+
 
 ## Technology Stack
-News.com \n
-UIKit
+- News.com
+- UIKit
 
 
 ## Used libraries
-**LBTAComponents** - library by letsbuildthatapp.com for easy UICollectionViewController management ...\n
-**Kingfisher** - Popular image loader ...we all know this guy\n
-**Alamofire** - For handling network requests
+- **LBTAComponents** - library by letsbuildthatapp.com for easy UICollectionViewController management ...
+- **Kingfisher** - Popular image loader ...we all know this guy
+- **Alamofire** - For handling network requests
 
 ## To do
-**1.** -- Redo layouts ... some conflicts exist\n
-**2.** -- Read up on writing better animations
+- **1.** Redo layouts ... some conflicts exist\n
+- **2.** Read up on writing better animations
 
 License
 ----------------
